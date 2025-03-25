@@ -51,4 +51,7 @@ Ensure you have the following installed:
 3. Click on **Predict** to get the suggested legal sections.
 4. Review the predictions and use them for legal reference.
 
+## Deployment
 
+The project is deployed on Streamlit Cloud. 
+You can access it here: https://firfirsectionpredictor-fxu9wbfgrqufbvb8yunhkb.streamlit.app/
