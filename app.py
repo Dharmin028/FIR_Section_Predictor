@@ -5,7 +5,7 @@ from docx import Document
 from io import BytesIO
 
 # ---- Configure Gemini API ----
-GENAI_API_KEY = "AIzaSyDoV9bwUDYfG5QnAHawo3fLsL7tdgxU2eY"
+GENAI_API_KEY = st.secrets["GEMINI_API_KEY"]
 genai.configure(api_key=GENAI_API_KEY)
 
 # ---- Initialize Session State for History ----
