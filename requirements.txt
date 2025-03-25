@@ -1,5 +1,5 @@
 Streamlit
-google.generativeai
+google-generativeai
 Pandas
 Document
 BytesIO
