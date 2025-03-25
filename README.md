@@ -1,7 +1,7 @@
 # FIR Section Predictor
 
 ## Overview
-FIR Section Predictor is a machine learning-based web application that predicts the applicable legal sections for a given First Information Report (FIR). This tool is designed to assist law enforcement agencies, legal professionals, and researchers by automating the classification of FIRs based on relevant legal provisions.
+FIR Section Predictor is a web application that predicts the applicable legal sections for a given incident description. This tool is designed to assist law enforcement agencies, legal professionals, and researchers by automating the classification of FIRs based on relevant legal provisions.
 
 ## Features
 - Multi-label classification of FIRs using **Gemini API**.
