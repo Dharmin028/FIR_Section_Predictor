@@ -1,5 +1,5 @@
 Streamlit
-Gemini API
+google.generativeai
 Pandas
 Document
 BytesIO
